@@ -1,0 +1,15 @@
+Status Code,Status
+1010,Applied
+1011,Send
+1020,Accepted
+1030,Rejected
+1040,Waitlisted
+1050,Dropped
+1055,Not Started
+1060,Paid
+1070,Team Allocated
+1080,Started
+1090,InSufficient Payment
+1100,Complete
+1110,Withdraw
+1120,Rewards
